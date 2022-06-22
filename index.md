@@ -18,3 +18,6 @@ for (i in 1:length(amph_nome2)){
 }
 
 ```
+- [ ] Learn
+- [ ] Duolingo
+- [ ] Dishes
